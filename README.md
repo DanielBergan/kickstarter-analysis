@@ -9,7 +9,7 @@ The first thing we did was filter the information to only include criteria that 
 ### Analysis of Outcomes Based on Launch Date
 To get a better understanding of how the launch date effected the outcome we created a pivot table and [line graph](kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png) showing how many successful, failed, and canceled campaigns there were throughout the year.
 ### Analysis of Outcomes Based on Goals
-With the outcomes based on goals we took the number of successful, failed, and canceled campaigns and divided them based on goals in ranges of increments of $5,000. We then determined what the percentages of these outcomes were and charted them in [this graph](kickstarter-analysis/resources/Outcomes_vs_Goal) where we can start to see some interesting correlations.
+With the outcomes based on goals we took the number of successful, failed, and canceled campaigns and divided them based on goals in ranges of increments of $5,000. We then determined what the percentages of these outcomes were and charted them in [this graph](kickstarter-analysis/Resources/Outcomes_vs_Goal.png) where we can start to see some interesting correlations.
 ### Challenges and Difficulties Encountered
 The main challenge involved with this analysis was that only a limited amount of the data was actually useful to our cause. This was not very difficult to overcome, merely a bit time consuming.
 ## Results
